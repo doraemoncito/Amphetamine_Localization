@@ -153,48 +153,48 @@
 // GENERAL USE STRINGS
 
 // USED IN BUTTONS, MENUS
-"gen_use_end_session_cap" = "End Session";
+"gen_use_end_session_cap" = "Cerrar Sesión";
 
 // USED IN BUTTONS, MENUS
-"gen_use_cont_session_cap" = "Continue Session";
+"gen_use_cont_session_cap" = "Continuar Sesión";
 
 // EXAMPLE USAGE: BATTERY IS 100% 'CHARGED'
-"gen_use_charged" = "charged";
+"gen_use_charged" = "cargado";
 
 // EXAMPLE USAGE: POWER ADAPTER CONNECTED 'AND'/'OR' BATTERY 100% CHARGED
-"gen_use_and" = "and";
+"gen_use_and" = "y";
 
 // EXAMPLE USAGE: POWER ADAPTER CONNECTED 'OR' BATTERY 100% CHARGED
-"gen_use_or" = "or";
+"gen_use_or" = "o";
 
 // EXAMPLE USAGE: CLICK THE BUTTON LABELED 'SAVE' TO KEEP YOUR CHANGES
-"gen_use_save" = "Save";
+"gen_use_save" = "Guardar";
 
 // EXAMPLE USAGE: CLICK THE BUTTON LABELED 'CANCEL' TO DISCARD YOUR CHANGES
-"gen_use_cancel" = "Cancel";
+"gen_use_cancel" = "Cancelar";
 
 // EXAMPLE USAGE: CLICK THE BUTTON LABELED 'CONTINUE' TO PROCEED
-"gen_use_continue" = "Continue";
+"gen_use_continue" = "Continuar";
 
 // EXAMPLE USAGE: CLICK THE BUTTON LABELED 'SELECT' TO CONFIRM YOUR SELECTION
-"gen_use_select" = "Select";
+"gen_use_select" = "Seleccionar";
 
 // USED AS A BUTTON LABEL OR MENU ITEM TITLE, ACTIONABLE, CLICKING ON THIS WILL END A SESSION
-"gen_use_end_session" = "End Current Session";
+"gen_use_end_session" = "Cerrar Sesión Actual";
 
 // USED IN CONJUNCTION WITH A NUMBER, EXAMPLE USAGE: Duration = 10 'hours'
-"gen_use_days" = "days";
-"gen_use_day" = "day";
-"gen_use_hours" = "hours";
-"gen_use_hour" = "hour";
-"gen_use_minutes" = "minutes";
-"gen_use_minute" = "minute";
-"gen_use_seconds" = "seconds";
-"gen_use_second" = "second";
+"gen_use_days" = "dias";
+"gen_use_day" = "día";
+"gen_use_hours" = "horas";
+"gen_use_hour" = "hora";
+"gen_use_minutes" = "minutos";
+"gen_use_minute" = "minuto";
+"gen_use_seconds" = "segundos";
+"gen_use_second" = "segundo";
 
 // USED AS A CATEGORY, EXAMPLE: MENU NAME 'HOURS' SUBMENU CONTAINS "1 HOUR", "2 HOURS", ETC.
-"gen_use_hours_cap" = "Hours";
-"gen_use_minutes_cap" = "Minutes";
+"gen_use_hours_cap" = "Horas";
+"gen_use_minutes_cap" = "Minutos";
 
 // TIME UNIT ABBREVIATIONS
 // EXAMPLE: 1h 30m = 1 HOUR 30 MINUTES
@@ -204,26 +204,26 @@
 "duration_abbrv_minutes_mins" = "mins";
 "duration_abbrv_minutes_m" = "m";
 
-"duration_abbrv_seconds_secs" = "secs";
+"duration_abbrv_seconds_secs" = "segs";
 "duration_abbrv_seconds_s" = "s";
 
 // USED IN SENTENCE; EXAMPLE: 10 MINUTES 'OF INACTIVITY'
-"gen_use_of_inactivity" = "of inactivity";
+"gen_use_of_inactivity" = "de inactividad";
 
 // USED IN BUTTON TITLE FOR OTHER TIME DURATION SESSIONS
 // EXAMPLE: 'FOR' 3 HOURS, 'UNTIL' 5:00 PM
-"gen_use_other_time_for_cap" = "For";
-"gen_use_other_time_until_cap" = "Until";
+"gen_use_other_time_for_cap" = "Para";
+"gen_use_other_time_until_cap" = "Hasta";
 
 // USED TO INDICATE A CUSTOM TIME SELECTION AS OPPOSED TO THE STANDARD SELECTIONS
 // EXAMPLE: " 'OTHER TIME:' 2 HRS 16 MINS "
 "gen_use_other_time_colon" = "Other Time:";
 
 // USED TO INDICATE THAT NO DEVICES (i.e. USB or BLUETOOTH DEVICE) ARE CONNECTED TO THIS MAC
-"gen_use_no_recog_dev" = "No recognized devices attached";
+"gen_use_no_recog_dev" = "No hay dispositivos reconocidos conectados";
 
 // USED TO PROMPT USER TO CONTINUE OR END A SESSION
-"gen_use_cont_session" = "Would you like to continue this session?";
+"gen_use_cont_session" = "¿Desea continuar esta sesión?";
 
 // EXAMPLE 100 'PIXELS' WIDE
 "gen_use_pixels" = "pixels";
@@ -246,7 +246,7 @@
 
 // USED AS BUTTON LABEL/TITLE IN RESPONSE TO A QUESTION
 // EXAMPLE: Q: IS THIS DRIVE A NETWORK VOLUME? BUTTON TITLES: 'YES', 'NO'
-"gen_use_yes_cap" = "Yes";
+"gen_use_yes_cap" = "Si";
 "gen_use_no_cap" = "No";
 
 
@@ -258,40 +258,40 @@
 // USED PRIMARILY IN IN MENUS AS SELECTABLE ITEMS
 
 "pref_duration_other" = "Other Time...";
-"pref_duration_indef" = "Indefinitely";
-"pref_duration_5secs" = "5 seconds";
-"pref_duration_10secs" = "10 seconds";
-"pref_duration_15secs" = "15 seconds";
-"pref_duration_30secs" = "30 seconds";
-"pref_duration_1min" = "1 minute";
+"pref_duration_indef" = "Indefinidamente";
+"pref_duration_5secs" = "5 segundos";
+"pref_duration_10secs" = "10 segundos";
+"pref_duration_15secs" = "15 segundos";
+"pref_duration_30secs" = "30 segundos";
+"pref_duration_1min" = "1 minuto";
 "pref_duration_5mins" = "5 minutes";
-"pref_duration_10mins" = "10 minutes";
-"pref_duration_15mins" = "15 minutes";
-"pref_duration_20mins" = "20 minutes";
-"pref_duration_25mins" = "25 minutes";
-"pref_duration_30mins" = "30 minutes";
-"pref_duration_35mins" = "35 minutes";
-"pref_duration_40mins" = "40 minutes";
-"pref_duration_45mins" = "45 minutes";
-"pref_duration_50mins" = "50 minutes";
-"pref_duration_55mins" = "55 minutes";
-"pref_duration_1hr" = "1 hour";
-"pref_duration_2hrs" = "2 hours";
-"pref_duration_3hrs" = "3 hours";
-"pref_duration_4hrs" = "4 hours";
-"pref_duration_5hrs" = "5 hours";
-"pref_duration_6hrs" = "6 hours";
-"pref_duration_7hrs" = "7 hours";
-"pref_duration_8hrs" = "8 hours";
-"pref_duration_9hrs" = "9 hours";
-"pref_duration_10hrs" = "10 hours";
-"pref_duration_12hrs" = "12 hours";
-"pref_duration_24hrs" = "24 hours";
-"pref_duration_download" = "File is downloading...";
+"pref_duration_10mins" = "10 minutos";
+"pref_duration_15mins" = "15 minutos";
+"pref_duration_20mins" = "20 minutos";
+"pref_duration_25mins" = "25 minutos";
+"pref_duration_30mins" = "30 minutos";
+"pref_duration_35mins" = "35 minutos";
+"pref_duration_40mins" = "40 minutos";
+"pref_duration_45mins" = "45 minutos";
+"pref_duration_50mins" = "50 minutos";
+"pref_duration_55mins" = "55 minutos";
+"pref_duration_1hr" = "1 hora";
+"pref_duration_2hrs" = "2 horas";
+"pref_duration_3hrs" = "3 horas";
+"pref_duration_4hrs" = "4 horas";
+"pref_duration_5hrs" = "5 horas";
+"pref_duration_6hrs" = "6 horas";
+"pref_duration_7hrs" = "7 horas";
+"pref_duration_8hrs" = "8 horas";
+"pref_duration_9hrs" = "9 horas";
+"pref_duration_10hrs" = "10 horas";
+"pref_duration_12hrs" = "12 horas";
+"pref_duration_24hrs" = "24 horas";
+"pref_duration_download" = "Descargando archivo...";
 
 // SESSION TIME REMAINING
 "session_time_remain_infin" = "Indeterminate time remaining";
-"session_time_remain_dwnld" = "While file is downloading";
+"session_time_remain_dwnld" = "Mientras el archivo se descarga";
 
 
 
@@ -335,8 +335,8 @@
 
 // ** NOTE: DO NOT REMOVE '%@' or '%.f%%' **
 // PLACEHOLDERS REPRESENT DOWNLOAD PROGRESS - EXAMPLE" File is downloading... (2GB | 47%)
-"pref_duration_download_progress" = "File is downloading... (%@ | %.f%%)";
-"pref_duration_download_progress_unknown" = "File is downloading... (%@ of ?)";
+"pref_duration_download_progress" = "Descargando archivo... (%@ | %.f%%)";
+"pref_duration_download_progress_unknown" = "Descargando archivo... (%@ of ?)";
 
 
 
@@ -380,9 +380,9 @@
 // ----- PREFERENCES WINDOW → GLOBAL
 // ---------------------------------------------------------------------------
 
-"pref_window_title" = "Preferences"; // 5.0.2
-"pref_global_lbl_uses_default_duration" = "↳ Uses Default Duration";
-"pref_global_bttn_screen_saver_exceptions" = "Exceptions...";
+"pref_window_title" = "Preferencias"; // 5.0.2
+"pref_global_lbl_uses_default_duration" = "↳ Usa Duración Predeterminada";
+"pref_global_bttn_screen_saver_exceptions" = "Excepciones...";
 
 
 
@@ -400,7 +400,7 @@
 "pref_gen_bttn_start_session_at_launch" = "Start session when Amphetamine launches";
 "pref_gen_bttn_start_session_after_wake" = "Start session after waking from sleep";
 "pref_gen_bttn_hide_dock_icon" = "Hide Amphetamine in the Dock";
-"pref_gen_bttn_reduce_motion" = "Reduce motion";
+"pref_gen_bttn_reduce_motion" = "Reducir movimiento";
 "pref_gen_bttn_reset_warnings" = "Reset warnings and dialogs";
 "pref_gen_bttn_reset_all_prefs" = "Reset all preferences";
 
@@ -455,11 +455,11 @@
 // ---------------------------------------------------------------------------
 
 // PREFERENCES WINDOW TOOLBAR ITEM LABEL
-"prefs_tb_sess" = "Sessions";
+"prefs_tb_sess" = "Sesiones";
 
 // PREFERENCES → SESSIONS → NON-TRIGGER SESSIONS BUTTONS
 "pref_sess_nt_button_title" = "Non-Trigger Sessions";
-"pref_sess_nt_bttn_default_duration_edit" = "Edit";
+"pref_sess_nt_bttn_default_duration_edit" = "Editar";
 "pref_sess_nt_bttn_end_session_force_sleep" = "End session when Mac is forced to sleep";
 "pref_sess_nt_bttn_allow_display_sleep" = "Allow display sleep";
 "pref_sess_nt_bttn_allow_cdm" = "Allow system sleep when display is closed";
@@ -473,12 +473,12 @@
 "pref_sess_nt_bttn_endtime_sysclock" = "Use system clock"; //v5.0.2
 
 // PREFERENCES → SESSIONS → NON-TRIGGER SESSIONS LABELS
-"pref_sess_nt_lbl_dd" = "Default Duration:";
-"pref_sess_nt_lbl_end_time_calc" = "End Time Calculation:";
-"pref_sess_nt_lbl_forced_sleep" = "Forced Sleep:";
-"pref_sess_nt_lbl_display_sleep" = "Display Sleep:";
+"pref_sess_nt_lbl_dd" = "Duración Predeterminada:";
+"pref_sess_nt_lbl_end_time_calc" = "Cálculo de Hora de Finalización:";
+"pref_sess_nt_lbl_forced_sleep" = "Forzar Reposo:";
+"pref_sess_nt_lbl_display_sleep" = "Reposo de Pantalla:";
 "pref_sess_nt_lbl_cdm" = "Closed-Display Mode:";
-"pref_sess_nt_lbl_screen_saver" = "Screen Saver:";
+"pref_sess_nt_lbl_screen_saver" = "Protector de pantalla:";
 "pref_sess_nt_lbl_battery" = "Battery:";
 "pref_sess_nt_lbl_pwr_adptr" = "Power Adapter:";
 "pref_sess_nt_lbl_cust_dd_enter" = "Enter time for the new duration:";
@@ -495,7 +495,7 @@
 "pref_sess_batt_is_below2" = "Battery charge is below %li%%";
 
 // USED IN SENTENCE; EXAMPLE: " 'End session when:' not connected to power adapter"
-"pref_sess_nt_end_when" = "End session when:";
+"pref_sess_nt_end_when" = "Cerrar sesión cuando:";
 
 // USED IN SENTENCE; EXAMPLE: "End session when: 'not connected to power adapter' "
 "pref_sess_nt_ac_not_connected" = "not connected to power adapter";
@@ -512,7 +512,7 @@
 // ----- PREFERENCES → SESSIONS → NON-TRIGGER SESSIONS → Default Duration Help Message
 
 // Title
-"help_message_default_duration_title" = "Default Duration";
+"help_message_default_duration_title" = "Duración predeterminada";
 
 // Body
 "help_message_default_duration_body" = "The Default Duration is used throughout Amphetamine when a session duration is not otherwise provided. Examples include when a session starts at launch and when clicking Amphetamine's image in the system menu bar to start a session.";
@@ -536,7 +536,7 @@
 // ----- PREFERENCES → SESSIONS → NON-TRIGGER SESSIONS → Display Sleep Help Message
 
 // Title
-"help_message_display_sleep_title" = "Display Sleep";
+"help_message_display_sleep_title" = "Reposo de Pantalla";
 
 // Body ** NOTE: DO NOT REMOVE '\n' **
 "help_message_display_sleep_body" = "Check this box if you want your Mac's display to sleep during a session. If you allow display sleep, your display will sleep/turn off after the time you have defined in  → System Preferences → Energy Saver has elapsed.\n\nNote that this preference only affects non-Trigger sessions. If you want Trigger-based sessions to allow your Mac's display to sleep, each individual Trigger can be configured to do so.";
@@ -552,7 +552,7 @@
 // ----- PREFERENCES → SESSIONS → NON-TRIGGER SESSIONS → Screen Saver Help Message
 
 // Title
-"help_message_screen_saver_title" = "Screen Saver";
+"help_message_screen_saver_title" = "Protector de Pantalla";
 
 // Body
 "help_message_screen_saver_body" = "Check this box if you want your Mac's screen saver to run during non-Trigger sessions. Use the slider to select the time threshold before starting the screen saver. During non-Trigger sessions, Amphetamine will keep track of your Mac's idle time. If the idle time is above the threshold you set, Amphetamine will start your screen saver.\n\nYou can add apps to an exceptions list by clicking the 'Exceptions ...' button. If an app in the exceptions list is running on your Mac, Amphetamine will not start the screen saver. This can be useful if you're watching a video or reading a ebook, etc.\n\nNote that this preference only affects non-Trigger sessions. If you want Trigger-based sessions to allow your screen saver to run, each individual Trigger can be configured to allow or disallow the screen saver.";
@@ -583,24 +583,24 @@
 
 // PREFERENCES → SESSIONS → ALL SESSIONS BUTTONS
 "pref_sess_as_button_title" = "All Sessions";
-"pref_sess_as_bttn_lck_scrn_pt1" = "Lock screen after";
-"pref_sess_as_bttn_lck_scrn_pt2" = "of inactivity";
-"pref_sess_as_bttn_lck_scrn_use_cursor" = "Use cursor movement to determine inactivity";
+"pref_sess_as_bttn_lck_scrn_pt1" = "Bloquear pantalla después de";
+"pref_sess_as_bttn_lck_scrn_pt2" = "de inactividad";
+"pref_sess_as_bttn_lck_scrn_use_cursor" = "Usar el movimiento del cursor para determinar la inactividad";
 "pref_sess_as_bttn_lck_scrn_disp_clsd" = "Lock screen immediately after display is closed";
 "pref_sess_as_bttn_lck_scrn_allow_disp_sleep" = "Allow display sleep when screen is locked";
-"pref_sess_as_bttn_cursor_pt1" = "Move cursor every";
-"pref_sess_as_bttn_cursor_pt2" = "after";
-"pref_sess_as_bttn_cursor_pt3" = "of inactivity";
-"pref_sess_as_bttn_cursor_stop_pt1" = "Stop moving cursor after";
-"pref_sess_as_bttn_cursor_stop_pt2" = "of inactivity";
+"pref_sess_as_bttn_cursor_pt1" = "Mover el cursor cada";
+"pref_sess_as_bttn_cursor_pt2" = "despues de";
+"pref_sess_as_bttn_cursor_pt3" = "de inactividad";
+"pref_sess_as_bttn_cursor_stop_pt1" = "Dejar de mover el cursor después de";
+"pref_sess_as_bttn_cursor_stop_pt2" = "de inactividad";
 "pref_sess_as_bttn_fast_usr_switch" = "End session when switching accounts";
 
 // PREFERENCES → SESSIONS → ALL SESSIONS LABELS
-"pref_sess_as_lbl_cursor_speed" = "Cursor Speed:";
-"pref_sess_as_lbl_cursor_speed_fast" =  "Fast";
-"pref_sess_as_lbl_cursor_speed_slow" =  "Slow";
-"pref_sess_as_lbl_cursor_speed_warn" = "Slower movement will slightly increase CPU usage";
-"pref_sess_as_lbl_lck_scrn" = "Lock Screen:";
+"pref_sess_as_lbl_cursor_speed" = "Velocidad del Cursor:";
+"pref_sess_as_lbl_cursor_speed_fast" =  "Rápido";
+"pref_sess_as_lbl_cursor_speed_slow" =  "Lento";
+"pref_sess_as_lbl_cursor_speed_warn" = "Un movimiento más lento aumentará ligeramente el uso de la CPU";
+"pref_sess_as_lbl_lck_scrn" = "Bloquear Panatalla:";
 "pref_sess_as_lbl_cursor" = "Cursor:";
 "pref_sess_as_lbl_fast_usr_switch" = "Fast User Switching:";
 
@@ -774,7 +774,7 @@
 // ---------------------------------------------------------------------------
 
 // PREFERENCES WINDOW TOOLBAR ITEM LABEL
-"prefs_tb_notif" = "Notifications";
+"prefs_tb_notif" = "Notificaciones";
 
 // PREFERENCES → NOTIFICATIONS BUTTONS
 "pref_notif_bttn_session_reminders_pt1" = "Remind every";
@@ -852,49 +852,49 @@
 // ---------------------------------------------------------------------------
 
 // PREFERENCES WINDOW TOOLBAR ITEM LABEL
-"prefs_tb_appr" = "Appearance";
+"prefs_tb_appr" = "Aspecto";
 
 // PREFERENCES → APPEARANCE BUTTONS
-"pref_appr_bttn_image_low_opac" = "Use low opacity when inactive";
-"pref_appr_bttn_image_padd" = "Manually manage padding for menu bar image";
-"pref_appr_bttn_text_show_time" = "Show session time remaining in menu bar";
-"pref_appr_bttn_text_24hr_clock" = "Use 24-hour clock";
-"pref_appr_bttn_text_incl_secs" = "Include seconds";
-"pref_appr_bttn_show_curr_sess" = "Show current session details";
-"pref_appr_bttn_show_drive_alive" = "Show Drive Alive details";
+"pref_appr_bttn_image_low_opac" = "Usar baja opacidad cuando esté inactivo";
+"pref_appr_bttn_image_padd" = "Gestionar manualmente el relleno para la imagen de la barra de menú";
+"pref_appr_bttn_text_show_time" = "Mostrar el tiempo de sesión restante en la barra de menú";
+"pref_appr_bttn_text_24hr_clock" = "Usar reloj de 24 horas";
+"pref_appr_bttn_text_incl_secs" = "Incluir segundos";
+"pref_appr_bttn_show_curr_sess" = "Mostrar detalles de la sesión actual";
+"pref_appr_bttn_show_drive_alive" = "Mostrar detalles de Drive Alive";
 
 // PREFERENCES → APPEARANCE LABELS
-"pref_appr_lbl_image" = "Menu Bar Image:";
-"pref_appr_lbl_text" = "Menu Bar Text:";
-"pref_appr_lbl_xtra" = "Menu Extras:";
+"pref_appr_lbl_image" = "Imagen de la barra de menú:";
+"pref_appr_lbl_text" = "Texto de la barra de menú:";
+"pref_appr_lbl_xtra" = "Extras de menú:";
 
 // ** NOTE: DO NOT REMOVE '\n' **
 "pref_appr_lbl_cust_icon_inst" = "Drag and drop your image files into the zones below. For best results,\nonly binary images with a transparent background should be used.";
 
-"pref_appr_lbl_cust_icon_inact" = "Inactive";
-"pref_appr_lbl_cust_icon_act" = "Active";
+"pref_appr_lbl_cust_icon_inact" = "Inactivo";
+"pref_appr_lbl_cust_icon_act" = "Activo";
 "pref_appr_lbl_cust_icon_inact_inst" = "This image will show when Amphetamine is not keeping your Mac awake.";
 "pref_appr_lbl_cust_icon_act_inst" = "This image will show when Amphetamine is keeping your Mac awake.";
-"pref_appr_lbl_cust_icon_get_more" = "Get more images...";
+"pref_appr_lbl_cust_icon_get_more" = "Obtener más imágenes...";
 
 
 // PREFERENCES → APPEARANCE MENU ITEMS
-"pref_appr_mi_cust_image" = "Custom image...";
-"pref_appr_mi_image_pill" = "Pill";
+"pref_appr_mi_cust_image" = "Imagen personalizada...";
+"pref_appr_mi_image_pill" = "Píldora";
 "pref_appr_mi_image_pill_out" = "Pill (outline)";
 "pref_appr_mi_image_molecule" = "Molecule";
-"pref_appr_mi_image_coffee_pot" = "Coffee Carafe";
-"pref_appr_mi_image_caffeine" = "Caffeine";
-"pref_appr_mi_image_cup" = "Coffee Cup";
-"pref_appr_mi_image_teapot" = "Tea Kettle";
-"pref_appr_mi_image_owl" = "Owl";
-"pref_appr_mi_image_eye" = "Eye";
-"pref_appr_mi_image_sun_moon" = "Sun & Moon";
+"pref_appr_mi_image_coffee_pot" = "Jarra de Café";
+"pref_appr_mi_image_caffeine" = "Cafeína";
+"pref_appr_mi_image_cup" = "Taza de café";
+"pref_appr_mi_image_teapot" = "Tetera";
+"pref_appr_mi_image_owl" = "Búho";
+"pref_appr_mi_image_eye" = "Ojo";
+"pref_appr_mi_image_sun_moon" = "Sol y Luna";
 "pref_appr_mi_image_emoji" = "Emoji";
-"pref_appr_mi_text_normal_sz" = "Standard font size";
-"pref_appr_mi_text_small_sz" = "Small font size";
-"pref_appr_mi_text_format_normal" = "Standard format (08:15)";
-"pref_appr_mi_text_format_letter" = "Letter notation format (8h 15m)";
+"pref_appr_mi_text_normal_sz" = "Tamaño de fuente estándar";
+"pref_appr_mi_text_small_sz" = "Tamaño de fuente pequeño";
+"pref_appr_mi_text_format_normal" = "Formato estándar (08:15)";
+"pref_appr_mi_text_format_letter" = "Formato de notación de cartas (8h 15m)";
 
 
 
@@ -936,18 +936,18 @@
 // ---------------------------------------------------------------------------
 
 // PREFERENCES WINDOW TOOLBAR ITEM LABEL
-"prefs_tb_stat" = "Statistics";
+"prefs_tb_stat" = "Estadísticas";
 
 // PREFERENCES → STATISTICS BUTTONS
-"pref_stat_bttn_reset" = "Reset Statistics";
-"pref_stat_bttn_enable" = "Enable statistics collection";
+"pref_stat_bttn_reset" = "Reiniciar las estadísticas";
+"pref_stat_bttn_enable" = "Habilitar recopilación de estadísticas";
 
 // PREFERENCES → STATISTICS LABELS
-"pref_stat_lbl_how_long_title" = "Amphetamine has kept your Mac awake for"; // v5.0.1
+"pref_stat_lbl_how_long_title" = "Amphetamine ha mantenido su Mac despierto por"; // v5.0.1
 "pref_stat_lbl_how_long_about" = "\n%@ %@ %@ %@"; // v5.0.1
 "pref_stat_lbl_how_long_prefs" = "%@ %@ %@ %@"; // v5.0.1
-"pref_stat_lbl_average" = "Average Session Duration";
-"pref_stat_lbl_total_sessions" = "Total Sessions";
+"pref_stat_lbl_average" = "Duración Media de la Sesión";
+"pref_stat_lbl_total_sessions" = "Número Total de Sesiones";
 
 
 
@@ -958,21 +958,21 @@
 // ---------------------------------------------------------------------------
 
 // TRIGGER CONFIGURATION WINDOW
-"trig_config_lbl_name" = "Name";
+"trig_config_lbl_name" = "Nombre";
 "trig_config_lbl_name_placeholder" = "My Awesome Trigger";
 "trig_config_lbl_name_desc" = "Give your Trigger a memorable name. You'll thank yourself later.";
-"trig_config_lbl_criteria" = "Criteria";
+"trig_config_lbl_criteria" = "Criterios";
 "trig_config_lbl_criteria_desc" = "Each Trigger you create can use up to one instance of each criterion. All criteria must evaluate true for your Trigger to activate.";
-"trig_config_lbl_criteria_edit" = "Double-click a criterion to edit the criterion";
-"trig_config_lbl_add_opt" = "Additional Options";
+"trig_config_lbl_criteria_edit" = "Haga doble clic en un criterio para editar el criterio.";
+"trig_config_lbl_add_opt" = "Opciones adicionales";
 "trig_config_lbl_add_opt_desc" = "Additional options that only apply to this Trigger.";
-"trig_config_bttn_disp_sleep" = "Allow display to sleep";
-"trig_config_bttn_cdm" = "Allow system to sleep when display is closed";
-"trig_config_bttn_scrn_svr" = "Allow screen saver to run after:";
+"trig_config_bttn_disp_sleep" = "Permitir el reposo de pantalla";
+"trig_config_bttn_cdm" = "Permitir la suspención del sistema cuando la pantalla esté cerrada";
+"trig_config_bttn_scrn_svr" = "Permitir que el protector de pantalla se ejecute después de:";
 
 // TABLE HEADERS
 "trig_config_tbl_head_criterion" = "Criterion";
-"trig_config_tbl_head_values" = "Value(s)";
+"trig_config_tbl_head_values" = "Valore(s)";
 
 
 
@@ -993,51 +993,51 @@
 // ----- TRIGGER CRITERIA
 
 // TRIGGER CRITERIA → GLOBAL
-"trig_crit_bttn_add" = "Add criterion";
+"trig_crit_bttn_add" = "Añadir criterio";
 
 // example: "Selection: 'None selected'
-"trig_crit_lbl_no_selection" = "None selected";
-"trig_crit_lbl_no_value" = "No value provided";
+"trig_crit_lbl_no_selection" = "Ninguno seleccionado";
+"trig_crit_lbl_no_value" = "No se ha proporcionado un valor";
 
 // TRIGGER CRITERIA → WI-FI
-"trig_crit_name_wifi" = "Wi-Fi Network";
-"trig_crit_name_wifi_placeholder" = "Wi-Fi network name";
-"trig_crit_bttn_wifi_get_current" = "Get current Wi-Fi network name";
+"trig_crit_name_wifi" = "Red Wi-Fi";
+"trig_crit_name_wifi_placeholder" = "Nombre de la red Wi-Fi";
+"trig_crit_bttn_wifi_get_current" = "Obtener el nombre de la red Wi-Fi actual";
 
 // TRIGGER CRITERIA → IP ADDRESS
-"trig_crit_name_ip" = "IP Address";
-"trig_crit_bttn_get_ip" = "Get current IP address";
-"trig_crit_bttn_use_range" = "Use IP address range";
-"trig_crit_lbl_ip_start" = "Start range:";
-"trig_crit_lbl_ip_end" = "End range:";
-"trig_crit_lbl_ip_addr" = "IP Address:";
+"trig_crit_name_ip" = "Dirección IP";
+"trig_crit_bttn_get_ip" = "Obtener la dirección IP actual";
+"trig_crit_bttn_use_range" = "Usar rango de direcciones IP";
+"trig_crit_lbl_ip_start" = "Inicio de rango:";
+"trig_crit_lbl_ip_end" = "Fin de rango:";
+"trig_crit_lbl_ip_addr" = "Dirección IP:";
 "trig_crit_lbl_ip_mutli" = "Multiple IP addresses were found for this Mac. Select the IP address you would like to use for this Trigger and click Continue below.";
-"trig_crit_ip_tbl_head_type" = "Interface/Type";
-"trig_crit_ip_tbl_head_addr" = "Address";
+"trig_crit_ip_tbl_head_type" = "Interfaz/Tipo";
+"trig_crit_ip_tbl_head_addr" = "Dirección";
 
 // TRIGGER CRITERIA → DNS
-"trig_crit_name_dns" = "DNS Server";
-"trig_crit_dns_tbl_head" = "DNS Servers";
+"trig_crit_name_dns" = "Servidor DNS";
+"trig_crit_dns_tbl_head" = "Servidores DNS";
 
 // TRIGGER CRITERIA → CISCO VPN SERVICE
 "trig_crit_name_vpn" = "Cisco AnyConnect VPN";
-"trig_crit_lbl_vpn_current" = "Current service:";
+"trig_crit_lbl_vpn_current" = "Servicio actual:";
 
 // ** NOTE: DO NOT REMOVE '\n' **
 "trig_crit_txtfd_vpn_message" = "This criterion is only known to work with the Cisco AnyConnect VPN client. In most cases, this criterion should avoided if you are not using Cisco AnyConnect. Use the IP Address criterion's range function instead.\n\nTo use this criterion, connect to your VPN and click the ↻ button below.";
 
 // TRIGGER CRITERIA → APP
-"trig_crit_name_app" = "Application";
-"trig_crit_bttn_no_helpers" = "Don't show helper apps or processes";
-"trig_crit_bttn_frontmost" = "Require app be frontmost";
-"trig_crit_lbl_select_app" = "Select an app:";
-"trig_crit_lbl_when_frontmost" = "(when frontmost)"; // example: Safari '(when frontmost)'
+"trig_crit_name_app" = "Aplicación";
+"trig_crit_bttn_no_helpers" = "No mostrar aplicaciones o procesos auxiliares";
+"trig_crit_bttn_frontmost" = "Requerir que la aplicación esté al frente";
+"trig_crit_lbl_select_app" = "Seleccione una aplicación:";
+"trig_crit_lbl_when_frontmost" = "(cuando esté al frente)"; // example: Safari '(when frontmost)'
 
 // TRIGGER CRITERIA → SCHEDULE
-"trig_crit_name_sched" = "Schedule";
-"trig_crit_lbl_sched_from" = "From:";
-"trig_crit_lbl_sched_until" = "Until:";
-"trig_crit_lbl_sched_no_select" = "No days selected";
+"trig_crit_name_sched" = "Horario";
+"trig_crit_lbl_sched_from" = "Desde:";
+"trig_crit_lbl_sched_until" = "Hasta:";
+"trig_crit_lbl_sched_no_select" = "No hay días seleccionados";
 
 // DAYS OF THE WEEK
 
@@ -1047,13 +1047,13 @@
 
 // THERE IS LIMITED SPACE IN THE SEGMENTED CONTROL. PLEASE USE THE SHORTEST ABBREVIATION FOR EACH WEEKDAY NAME WHERE POSSIBLE
 
-"weekday_abbr_1" = "Sun";
-"weekday_abbr_2" = "Mon";
-"weekday_abbr_3" = "Tue";
-"weekday_abbr_4" = "Wed";
-"weekday_abbr_5" = "Thu";
-"weekday_abbr_6" = "Fri";
-"weekday_abbr_7" = "Sat";
+"weekday_abbr_1" = "Dom";
+"weekday_abbr_2" = "Lun";
+"weekday_abbr_3" = "Mar";
+"weekday_abbr_4" = "Mie";
+"weekday_abbr_5" = "Jue";
+"weekday_abbr_6" = "Vie";
+"weekday_abbr_7" = "Sab";
 
 // TRIGGER CRITERIA → BATTERY & POWER ADAPTER
 "trig_crit_name_power" = "Battery & Power Adapter";
@@ -1074,34 +1074,34 @@
 "trig_crit_bttn_ignore_built_in" = "Ignore built-in display";
 
 // INDICATES AN EXTERNAL DISPLAY - i.e. NOT BUILT-IN
-"trig_crit_lbl_external" = "(External)";
+"trig_crit_lbl_external" = "(Externo)";
 
 // TRIGGER CRITERIA → VOLUMES/DRIVES
-"trig_crit_name_vols" = "Volumes/Drives";
+"trig_crit_name_vols" = "Volumenes/Unidades";
 
 // TRIGGER CRITERIA → USB DEVICE
-"trig_crit_name_usb" = "USB Device";
+"trig_crit_name_usb" = "Dispositivo USB";
 
 // TRIGGER CRITERIA → BLUETOOTH DEVICE
-"trig_crit_name_bluetooth" = "Bluetooth Device";
+"trig_crit_name_bluetooth" = "Dispositivo Bluetooth";
 
 // TRIGGER CRITERIA POPUP → AUDIO OUTPUT
-"trig_crit_name_audio" = "Audio Output";
-"trig_crit_mi_audio_headphones" = "Headphones";
-"trig_crit_mi_audio_bi_speakers" = "Built-in Speakers";
-"trig_crit_mi_audio_bi_output" = "Built-in Output";
-"trig_crit_mi_audio_headphones_35w" = "Headphones (wired, 3.5mm)";
+"trig_crit_name_audio" = "Salida de Audio";
+"trig_crit_mi_audio_headphones" = "Auriculares";
+"trig_crit_mi_audio_bi_speakers" = "Altavoces Incorporados";
+"trig_crit_mi_audio_bi_output" = "Salida Incorporada";
+"trig_crit_mi_audio_headphones_35w" = "Auriculares (con cable, 3.5 mm)";
 
 // TRIGGER CRITERIA POPUP → CPU
-"trig_crit_name_cpu" = "CPU Utilization";
-"trig_crit_lbl_cpu" = "CPU usage is:";
-"trig_crit_lbl_cpu_error" = "CPU Error";
+"trig_crit_name_cpu" = "Utilización de CPU";
+"trig_crit_lbl_cpu" = "El uso de la CPU es:";
+"trig_crit_lbl_cpu_error" = "Error de CPU";
 
 // TRIGGER CRITERIA POPUP → IDLE TIME
-"trig_crit_name_idle" = "System Idle Time";
-"trig_crit_mi_idle_greater" = "Idle time >";
-"trig_crit_mi_idle_less" = "Idle time <";
-"trig_crit_lbl_idle_mins" = "minute(s)";
+"trig_crit_name_idle" = "Tiempo de Inactividad del Sistema";
+"trig_crit_mi_idle_greater" = "Tiempo de inactividad >";
+"trig_crit_mi_idle_less" = "Tiempo de inactividad <";
+"trig_crit_lbl_idle_mins" = "minuto(s)";
 
 
 
@@ -1362,8 +1362,8 @@
 "qp_bttn_end_sess_ac_discon_title" = "End session if not connected to power adapter";
 
 // PLACEHOLDERS REPRESENT A TIME DURATION, EXAMPLE: 'LOCK SCREEN AFTER 1h 15m OF INACTIVITY'
-"qp_bttn_lck_scrn_title" = "Lock screen after %01ld%@ of inactivity";
-"qp_bttn_mv_cursor_title" = "Move cursor after %01ld%@ of inactivity";
+"qp_bttn_lck_scrn_title" = "Bloquear pantalla después de %01ld%@ de inactividad";
+"qp_bttn_mv_cursor_title" = "Mover el cursor después de %01ld%@ de inactividad";
 
 // ----- Quick Preferences Help Message
 
@@ -1504,72 +1504,72 @@
 "error_trigger_edit_body" = "Please try again. If the issue persists, please remove the Trigger and re-create it. If you are unable to re-create the Trigger, please  submit a support request at iffy.freshdesk.com.";
 
 // ----- SCREEN SAVER FOR TRIGGER ALERT
-"alert_trig_scn_svr_bttn_enable" = "Enable Screen Saver";
+"alert_trig_scn_svr_bttn_enable" = "Habilitar protector de pantalla";
 
 "alert_trig_scn_svr_title" = "This Trigger is not configured to allow the screen saver.";
 "alert_trig_scn_svr_body" = "While this Trigger is not configured to allow the screen saver, you can allow the screen saver for this session. To configure this Trigger to always allow the screen saver, visit Preferences → Triggers and double-click on the Trigger to edit it.\n\nOtherwise, to allow the screen saver for just this session, choose a delay below and click Enable Screen Saver.";
 
 // ----- DRIVE ALIVE SANDBOX ALERT
-"alert_drivealive_tech_det_title" = "Some technical details...";
+"alert_drivealive_tech_det_title" = "Algunos detalles técnicos...";
 
 // PLACEHOLDER IS NAME OF DRIVE
 "alert_drivealive_tech_det_body" = "The macOS sandboxing feature prevents Amphetamine from writing to the root directory of the drive that macOS is installed on.\n\nAmphetamine can still keep this drive awake, but will write data to the following path:\n\n%@";
 
-"alert_drivealive_net_vol_title" = "Network volume detected";
+"alert_drivealive_net_vol_title" = "Volumen de red detectado";
 "alert_drivealive_net_vol_body" = "The drive/volume you have selected appears to be a network or non-local volume. Please be aware that if the connection to this volume is lost or otherwise unavailable, Amphetamine may become unresponsive.";
 
 // ----- APP PICK ERROR
-"alert_app_select_title" = "Something went wrong.";
+"alert_app_select_title" = "Algo ha salido mal.";
 "alert_app_select_body" = "You may have not selected an app, or the app you selected may have quit. Please select a different app or relaunch the one you selected previously.";
 
 // ----- APPLESCRIPT ERROR
-"alert_applescript_fail_title" = "An error occurred.";
-"alert_applescript_fail_title" = "Amphetamine could not understand the message received from AppleScript";
+"alert_applescript_fail_title" = "Ha ocurrido un error.";
+"alert_applescript_fail_title" = "Amphetamine no pudo entender el mensaje recivido de AppleScript";
 
 // ----- LOCK SCREEN FAILURE
-"alert_lck_scrn_fail_title" = "Amphetamine could not lock the screen.";
-"alert_lck_scrn_fail_body" = "Visit Preferences → Sessions → All Sessions to re-enable this feature.";
+"alert_lck_scrn_fail_title" = "Amphetamine no pudo bloquear la pantalla.";
+"alert_lck_scrn_fail_body" = "Visite Preferencias → Sesiones → Todas las Sesiones para volver a habilitar esta función.";
 
 // ----- DEFAULT DURATION
-"alert_dd_less_one_min_title" = "Default duration cannot be less than one minute.";
-"alert_dd_less_one_min_body" = "The default duration has be changed to the minimum value of 0 hours and 1 minute.";
+"alert_dd_less_one_min_title" = "La duración predeterminada no puede ser inferior a un minuto.";
+"alert_dd_less_one_min_body" = "La duración predeterminada se ha cambiado al valor mínimo de 0 horas y 1 minuto.";
 
 // ----- CUSTOM STATUS/MENU BAR ITEM IMAGE MISSING OR NOT FOUND
-"cust_img_not_found_title" = "No custom images were found.";
-"cust_img_not_found_body" = "Two custom images (active and inactive) are required. The default images will be used.";
+"cust_img_not_found_title" = "No se encontraron imágenes personalizadas.";
+"cust_img_not_found_body" = "Se requieren dos imágenes personalizadas (activa e inactiva). Se usarán las imágenes predeterminadas.";
 
 // ----- CUSTOM STATUS/MENU BAR ITEM IMAGE SAVE ERROR
-"cust_img_save_err_title" = "Images could not be saved.";
-"cust_img_save_err_body" = "An unknown error occurred. The default images will be used.";
+"cust_img_save_err_title" = "Las imágenes no se pudieron guardar.";
+"cust_img_save_err_body" = "Ha ocurrido un error desconocido. Se usarán las imágenes predeterminadas.";
 
 // ----- RESET PREFERENCES CONFIRMATION
-"prefs_reset_conf_title" = "Are you sure you want to reset Amphetamine's preferences?";
-"prefs_reset_conf_body" = "All preferences will be reset to their default values, and you will lose all Trigger, Drive Alive configurations.";
+"prefs_reset_conf_title" = "¿Está seguro de que desea restablecer las preferencias de Amphetamine?";
+"prefs_reset_conf_body" = "Todas las preferencias se restablecerán a sus valores predeterminados y perderá todas las configuraciones de Trigger y Drive Alive.";
 
 // ----- RESET WARNINGS & DIALOGS CONFIRMATION
-"warn_diag_reset_conf_title" = "Successfully reset warnings and dialogs.";
-"warn_diag_reset_conf_body" = "You have been warned.";
+"warn_diag_reset_conf_title" = "Restablecer correctamente advertencias y cuadros de diálogo."; // TODO: recheck cuadros de diálogo
+"warn_diag_reset_conf_body" = "Usted ha sido advertido.";
 
 // ----- IP ADDRESS CRITERIA MESSAGE
-"alert_no_ip_address_title" = "No IP Addresses were found.";
-"alert_no_ip_address_body" = "Please double check that your Mac can connect to the internet and/or has a valid IP address";
+"alert_no_ip_address_title" = "No se encontraron direcciones IP.";
+"alert_no_ip_address_body" = "Verifique que su Mac pueda conectarse a Internet y / o tenga una dirección IP válida";
 
 // ----- DNS SERVER CRITERIA MESSAGE
-"dns_no_new_serv_title" = "No new DNS servers found.";
-"dns_no_new_serv_body" = "The DNS servers currently listed are the only ones that are being reported as in use by macOS. If you recently updated your DNS servers in System Preferences, or changed the network configuration, please wait a couple of minutes and try again.";
+"dns_no_new_serv_title" = "No se encontraron nuevos servidores DNS.";
+"dns_no_new_serv_body" = "Los servidores DNS enumerados actualmente son los únicos que macOS informa que están en uso. Si ha actualizado recientemente  sus servidores DNS en Preferencias del Sistema, o ha cambiado la configuración de red, espere un par de minutos e intentelo de nuevo.";
 
 // ----- DRIVE ALIVE WRITE ERROR
-"drive_alive_write_err_title" = "An error occurred.";
+"drive_alive_write_err_title" = "Ha ocurrido un error.";
 "drive_alive_write_err_body" = "Amphetamine does not have permission to write data to this location. This is most likely due to macOS sandboxing or the volume's formatting.\n\nYou can try the following workaround, but it may not be successful:\n\nCreate a new folder at the root of the volume/drive (you may be asked for the password of and admin user). Then, select that folder for use with Drive Alive.";
 
 // ----- DRIVE ALIVE NETWORK VOLUME PROMPT
-"alert_net_volume_title" = "Network Volume/Drive";
+"alert_net_volume_title" = "Volumen de red / Unidad";
 
 // PLACEHOLDER IS NAME OF DRIVE
 "alert_net_volume_body" = "Is the volume/drive named '%@' a network connected volume? Answering this question correctly will help Amphetamine perform more efficiently.";
 
 // ----- BETA EXPIRATION
-"alert_beta_expired_title" = "This beta has expired.";
+"alert_beta_expired_title" = "Esta version beta ha caducado.";
 "alert_beta_expired_body" = "To obtain a new beta version of Amphetamine, please visit github.com/x74353/AmphetamineBeta. Amphetamine will now quit.";
 
 // ----- DISABLE TRIGGERS MESSAGE
